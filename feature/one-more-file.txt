@@ -1,1 +1,0 @@
-One extra file is added for 3-way merge in git pull action!
