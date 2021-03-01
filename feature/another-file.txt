@@ -1,2 +1,5 @@
+Feature 2 Branch is being checked!
+
 Another file created for checking git pull performance!
 This file is modified locally.
+Feature_2 check!
